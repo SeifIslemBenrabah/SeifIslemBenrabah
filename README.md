@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 *Bringing ideas to life through code and design.*
 
-[![GitHub followers](https://img.shields.io/github/followers/seifbenrabah?style=social)](https://github.com/seifislembenrabah)
+[![GitHub followers](https://img.shields.io/github/followers/seifislembenrabah?style=social)](https://github.com/seifislembenrabah)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0057E7?style=flat&logo=linkedin)](https://linkedin.com/in/seifislembenrabah)
 
 </div>
@@ -110,9 +110,9 @@ I work solo on diverse projects ranging from **web applications** to **visual id
 
 <div align="center">
   
-![Seif's GitHub stats](https://github-readme-stats.vercel.app/api?username=seifbenrabah&show_icons=true&theme=tokyonight&border_color=0057E7&title_color=00CCFF&icon_color=00CCFF)
+![Seif's GitHub stats](https://github-readme-stats.vercel.app/api?username=seifislembenrabah&show_icons=true&theme=tokyonight&border_color=0057E7&title_color=00CCFF&icon_color=00CCFF)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seifbenrabah&layout=compact&theme=tokyonight&border_color=0057E7&title_color=00CCFF)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seifislembenrabah&layout=compact&theme=tokyonight&border_color=0057E7&title_color=00CCFF)
 
 </div>
 
@@ -124,9 +124,9 @@ I'm always open to collaborating on interesting projects or just having a chat a
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seifbenrabah)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0057E7?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seifbenrabah)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seifbenrabah)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seifislembenrabah)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0057E7?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seifislembenrabah)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/seif_pcrafter)
 
 </div>
 
