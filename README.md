@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 
 *Bringing ideas to life through code and design.*
 
-[![GitHub followers](https://img.shields.io/github/followers/seifbenrabah?style=social)](https://github.com/seifbenrabah)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0057E7?style=flat&logo=linkedin)](https://linkedin.com/in/seifbenrabah)
+[![GitHub followers](https://img.shields.io/github/followers/seifbenrabah?style=social)](https://github.com/seifislembenrabah)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0057E7?style=flat&logo=linkedin)](https://linkedin.com/in/seifislembenrabah)
 
 </div>
 
