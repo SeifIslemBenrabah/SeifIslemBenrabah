@@ -78,7 +78,6 @@ I'm a **Computer Science student** at **École Supérieure en Informatique, Sidi
 ## 🌱 Currently Exploring
 
 - 🤖 **Artificial Intelligence** & Machine Learning
-- ☁️ **Cloud Computing** (AWS, Azure)
 - ⚡ **FastAPI** for high-performance APIs
 - 🔄 **Apache Kafka** for event streaming
 - 🏗️ **Microservices Architecture** with Eureka & Service Discovery
