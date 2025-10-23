@@ -17,7 +17,7 @@ Here are some ideas to get you started:
   
 # 👋 Hi, I'm Seif Islem Benrabah
 
-### Designer & Developer from Algeria 🇩🇿
+### Designer & Developer
 
 *Bringing ideas to life through code and design.*
 
